@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IsMariEvenReal (aka Mari)
 - 👀 I’m interested in writing (in spanish) and coding
-- 🌱 I’m currently learning Python essentials
-- 📫 How to reach me: I'm @IsMariEvenReal on Twitter!!
+- 🌱 I’m currently learning networking basics
+- 📫 How to reach me: I'm @ismarievenreal.bsky.social on Bluesky!!
 - 😄 Pronouns: She/they
 - ⚡ Fun fact: I'm actually not funny at all
 
