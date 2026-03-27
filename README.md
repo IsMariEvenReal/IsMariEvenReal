@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @IsMariEvenReal (aka Mari)
-- 👀 I’m interested in writing (in spanish) and coding
-- 🌱 I’m currently learning networking basics
-- 📫 How to reach me: I'm @ismarievenreal.bsky.social on Bluesky!!
+- 👀 I’m interested in writing (in spanish), pop punk music and coding
+- 🌱 I’m currently learning DevOps fundamentals
+- 📫 How to reach me: I'm @ismarievenreal.bsky.social on Bluesky and @marimadeatiktokalright on TikTok!!
+- 📚 Where can you read me: I'm @MariG112 on Wattpad!! Keep in mind that I only write in spanish
 - 😄 Pronouns: She/they
 - ⚡ Fun fact: I'm actually not funny at all
 
